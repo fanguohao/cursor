@@ -169,7 +169,7 @@ by the user.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=canmi21/cursor&type=Date)](https://star-history.com/#canmi21/cursor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=canmi21/cursor&type=Date)](https://star-history.com/#yeongpin/cursor-free-vip&Date)
 
 </div>
 
