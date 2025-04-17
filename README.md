@@ -9,7 +9,12 @@
 
 <a href="https://trendshift.io/repositories/13425" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13425" alt="yeongpin%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
- ***1.9.05版本最后的备份，切用且珍惜***
+ **这是1.9.05版本最后的备份，切用且珍惜 请务必妥善保存好 git 历史记录**
+
+> This repository contains the final backup before the original repository was deleted. You are welcome to star this project to preserve these source codes. I have attempted to modify some of the referenced links to point to the backup repository, but it is possible that some logic may not have been fully replaced. If anyone is willing to fix these issues, feel free to submit a pull request to update the links to the new backup repository.
+> Please remember to fork this repository to ensure you have your own copy, as having it in your own hands is the safest way to keep it. Before synchronizing or pulling any changes, make sure to check the git history, as I may be required by GitHub or the original source (Cursor) to remove the source code at any time. Please ensure that you have a proper backup of the git history.
+
+**Repository Link:** [canmi21/cursor](https://github.com/canmi21/cursor/fork)
 
 ## 💻 System Support | 系統支持
 
@@ -167,11 +172,13 @@ by the user.
 
 ## ⭐ Star History | 星星數
 
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date)](https://github.com/canmi21)
-
-</div>
+<a href="https://github.com/canmi21">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date" />
+  </picture>
+</a>
 
 ## 📝 License | 授權
 
